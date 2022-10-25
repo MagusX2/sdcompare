@@ -1,3 +1,9 @@
+### Forked from [HenryLoenwind/sdcompare](https://github.com/HenryLoenwind/sdcompare) 
+
+Added move files feature that I really needed to make this tool useful to me.
+
+Added a Move button to the results window. It creates folders at the target folder with the respective score like A_100-Winners, B_90-99, C_80-89, etc. Then move the files to those folders.
+
 # Image Voter
 
 This little tool allows you to select your favourite image from a folder of many images.
